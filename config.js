@@ -20,13 +20,14 @@ module.exports = {
   "host": "lava.inzeworld.com",
   "port": 3128,
   "secure": false 
-    },{
-  "identifier": "Muzykant v4",
-  "password": "https://discord.gg/v6sdrD9kPh",
-  "host": "lavalink_v4.muzykant.xyz",
+    },
+    {
+  "name": "Public Lavalink v4 NonSSL",
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v4.ajieblogs.eu.org",
   "port": 80,
   "secure": false
-    }'
+    },
     { 
       name: "saher",
       password: "saher.inzeworld.com",
