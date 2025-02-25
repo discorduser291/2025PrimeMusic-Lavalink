@@ -22,11 +22,10 @@ module.exports = {
   "secure": false 
     },
     {
-  "name": "Muzykant v4",
-  "password": "https://discord.gg/v6sdrD9kPh",
-  "host": "lavalink_v4.muzykant.xyz",
-  "port": 80,
-  "secure": false
+name : 180.188.226.76
+password : enteryourcustompass
+port :  7019
+secure : false
     },
     { 
       name: "saher",
