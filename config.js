@@ -22,10 +22,10 @@ module.exports = {
   "secure": false 
     },
     {
-  "name": "ChalresNaig Node (Backup)",
-  "password": "charlesnaig-lavalink",
-  "host": "212.227.65.132",
-  "port": 10296,
+  "name": "Muzykant v4",
+  "password": "https://discord.gg/v6sdrD9kPh",
+  "host": "lavalink_v4.muzykant.xyz",
+  "port": 80,
   "secure": false
     },
     { 
