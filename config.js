@@ -22,10 +22,10 @@ module.exports = {
   "secure": false 
     },
     {
-  "identifier": "ChalresNaig Node",
-  "password": "NAIGLAVA-dash.techbyte.host",
-  "host": "lavahatry4.techbyte.host",
-  "port": 3000,
+  "name": "ChalresNaig Node (Backup)",
+  "password": "charlesnaig-lavalink",
+  "host": "212.227.65.132",
+  "port": 10296,
   "secure": false
     },
     { 
