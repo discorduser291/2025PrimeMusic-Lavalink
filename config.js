@@ -22,10 +22,11 @@ module.exports = {
   "secure": false 
     },
     {
-name : 180.188.226.76
-password : enteryourcustompass
-port :  7019
-secure : false
+      name: "XX",
+      password: "enteryourcustompass",
+      host: "180.188.226.76",
+      port:  7019,
+      secure: false
     },
     { 
       name: "saher",
